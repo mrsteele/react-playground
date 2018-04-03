@@ -1,0 +1,18 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Matt Steele <matt@omnionline.us> (http://omnionline.us/)",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  }
+}
